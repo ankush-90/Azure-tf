@@ -57,7 +57,7 @@ resource "azurerm_storage_account" "ankush-tf" {
   account_replication_type = "GRS"
 
   tags = {
-    environment = "ankushdev"
+    environment = "sharma"
   }
 }
 
